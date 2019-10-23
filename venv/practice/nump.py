@@ -1,3 +1,3 @@
-from numpy import *
+import numpy
 
-arr = array('i', [1,3,45], [45,34,56])
+arr = numpy.array( 'i', [1, 3, 45], [45, 34, 56] )
