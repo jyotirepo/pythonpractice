@@ -1,0 +1,12 @@
+# more on lambda
+
+nums = int(input("enter a number to check odd/even: "))
+
+
+even = lambda nums : nums%2==0
+result = int(even(nums))
+print(result)
+
+odd = lambda nums : nums%2!=0
+result1 = int(odd(nums))
+print(result1)
