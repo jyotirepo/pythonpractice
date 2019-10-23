@@ -1,4 +1,4 @@
-# more on lambda
+# more on lambda for Even/odd number
 
 nums = int(input("enter a number to check odd/even: "))
 
